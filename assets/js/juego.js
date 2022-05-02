@@ -87,7 +87,7 @@ const turnoComputadora = (puntosMinimos) => {
         } else {
             alert('AI win')
         }
-    }, 25);
+    }, 1000);
 
 
 }
